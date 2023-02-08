@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.AssemblyInfo.cs
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Prowodnik\Prowodnik\bin\Debug\net6.0\Prowodnik.exe
+C:\Users\user\source\repos\Prowodnik\Prowodnik\bin\Debug\net6.0\Prowodnik.deps.json
+C:\Users\user\source\repos\Prowodnik\Prowodnik\bin\Debug\net6.0\Prowodnik.runtimeconfig.json
+C:\Users\user\source\repos\Prowodnik\Prowodnik\bin\Debug\net6.0\Prowodnik.dll
+C:\Users\user\source\repos\Prowodnik\Prowodnik\bin\Debug\net6.0\Prowodnik.pdb
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.dll
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\refint\Prowodnik.dll
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.pdb
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\Prowodnik.genruntimeconfig.cache
+C:\Users\user\source\repos\Prowodnik\Prowodnik\obj\Debug\net6.0\ref\Prowodnik.dll
